@@ -52,3 +52,4 @@ out_expected.txt
 # Added by cargo
 
 /target
+resources/results.txt
